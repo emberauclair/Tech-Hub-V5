@@ -53,6 +53,9 @@ Acknowledging the risk of being targeted, being aware of different forms of elde
 ## Emerging Trend: AI / ChatGPT Scams
 Scammers use AI to enhance their schemes, including AI voice cloning and other advanced tactics.
 
+# Emerging Trend: Quantum password breaking tools
+In the near future, most passwords used by people today will become insecure which makes it crucial to future proof all passwords with a password manager. 
+
 ### Protecting Yourself Against AI Scams
 Tips on how to stay vigilant against AI-enhanced scams, practicing skepticism, and reporting any suspected scam activities.
 

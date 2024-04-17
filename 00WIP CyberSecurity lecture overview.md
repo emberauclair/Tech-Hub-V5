@@ -1,7 +1,11 @@
+TODOS
+- [ ] continue flushing out the core knowledge
+- [ ] 
+
 
 
 DATA STRUCTURE
-modularized so that each page can be independently expanded. 
+Modularized so that each page can be independently expanded. 
 
 DESIGN PRINCIPALS
 - efficient, utilitarian, LGBTQIA+ themed (lesbian and trans colors) 
@@ -13,16 +17,15 @@ DESIGN PRINCIPALS
 site link
 [[About page]] - plain text site
 site link
-[[Cybersecurity Workshop Page]] - plain text site
+[[WIP Cybersecurity Workshop Page]] - plain text site
 site link
 [[Phishing Awareness]] - plain text site
 site link
 [[Learning AI]] - plain text site
 site link
-
+[[Academic Third Spaces (AI GENERATED WIP)]] 
 
 DEV Resources
 
 [[README]]
 https://github.com/emberauclair/Tech-Hub-V5
-
