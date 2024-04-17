@@ -20,6 +20,9 @@ site link
 [[Learning AI]] - plain text site
 site link
 
-[[for other developers]] - 
+
+DEV Resources
+
+[[README]]
 https://github.com/emberauclair/Tech-Hub-V5
 
